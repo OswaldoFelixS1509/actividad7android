@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">actividad7android</string>
+    <string name="pelicula_1">Pelicula 1</string>
+    <string name="regresar">Regresar</string>
+    <string name="tengen_toppa_gurren_laggan">Tengen toppa gurren lagann</string>
+    <string name="title">Tengen Toppa Gurren Lagann Movie: Lagann-hen.</string>
+    <string name="movieDescription">Esta pelicula resume la segunda parte del anime Tengen toppa gurren lagga. Muestra la epica batalla final del escuadrón Gurren lagann</string>
+</resources>
